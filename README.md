@@ -1,4 +1,4 @@
-# LMatrix
+# Prasatul Matrix
 The Prasatul Matrix is prepared by directly comparing the solutions produced by two optimization algorithms for r numbers of trials. It has three levels of abstractions both in rows and columns.
 
 For quality comparision, you can simply use best values obtained with two evolutionary optimization algorithms on r runs. 
