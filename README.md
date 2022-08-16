@@ -5,4 +5,4 @@ For quality comparision, you can simply use best values obtained with two evolut
 
 For convergence comparison, you can use best values obtained with two evolutionary optimization algorithms in i itarations on a single run (or if r runs are considered then take iteration-wise average).
 
-For solution quality, an example with solutions obtained with SCA and WOA on CEC 2005 f5 in dimension 20 over 50 runs are given. You just need to replace the csv files of any pair of algorithms to generate LMatrix (Prasatul Matrix) and D-scores and K-scores.
+For solution quality, an example with solutions obtained by SCA and WOA on CEC 2005 f5 in dimension 20 over 50 runs are given. You just need to replace the csv files of any pair of algorithms to generate LMatrix (Prasatul Matrix) and D-scores and K-scores.
