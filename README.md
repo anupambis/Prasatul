@@ -16,10 +16,16 @@ For solution quality, an example with solutions obtained by SCA and WOA on CEC 2
  # Citation
 
 @misc{biswas2022prasatul,
+
       title={Prasatul Matrix: A Direct Comparison Approach for Analyzing Evolutionary Optimization Algorithms}, 
+      
       author={Anupam Biswas},
+      
       year={2022},
+      
       eprint={2212.00671},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.NE}
 }
